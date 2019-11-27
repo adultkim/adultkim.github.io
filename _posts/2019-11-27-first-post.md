@@ -1,6 +1,5 @@
 ---
 title: "Hello World"
-date: 2019-11-70 14:48:28 -0400
 categories: jekyll update
 ---
 ---
